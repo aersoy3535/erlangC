@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erlangC/static/css/main.fcb8ea07.css",
+    "main.js": "/erlangC/static/js/main.ade9bb62.js",
+    "static/js/787.b4d77828.chunk.js": "/erlangC/static/js/787.b4d77828.chunk.js",
+    "index.html": "/erlangC/index.html",
+    "main.fcb8ea07.css.map": "/erlangC/static/css/main.fcb8ea07.css.map",
+    "main.ade9bb62.js.map": "/erlangC/static/js/main.ade9bb62.js.map",
+    "787.b4d77828.chunk.js.map": "/erlangC/static/js/787.b4d77828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb8ea07.css",
+    "static/js/main.ade9bb62.js"
+  ]
+}
